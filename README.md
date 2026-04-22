@@ -14,14 +14,14 @@
 [![Shop](https://img.shields.io/badge/Shop-Store-B537F2?style=for-the-badge&logo=shopify&logoColor=white)](https://omniflexfitness.com)
 [![Email](https://img.shields.io/badge/Contact-Email-00C2FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bertin.kenol@omniflexfitness.com)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@omniflexfitness-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/omniflexfitness)
-[![TikTok](https://img.shields.io/badge/TikTok-@omniflexfitness-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@omniflexfitness)
-[![YouTube](https://img.shields.io/badge/YouTube-@OmniFlexFitness-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@OmniFlexFitness)
+[![YouTube](https://img.shields.io/badge/YouTube-@OmniFlexFitness-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@OmniFlexFitness)
+[![Instagram](https://img.shields.io/badge/Instagram-@omniflexfitness-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/omniflexfitness/)
+[![TikTok](https://img.shields.io/badge/TikTok-@omniflexfitness-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@omniflexfitness)
+[![Snapchat](https://img.shields.io/badge/Snapchat-@omniflexfitness-FFFC00?style=flat-square&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/omniflexfitness)
 [![X](https://img.shields.io/badge/X-@OmniFlexFitness-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/OmniFlexFitness)
-[![Threads](https://img.shields.io/badge/Threads-@omniflexfitness-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.com/@omniflexfitness)
+[![Threads](https://img.shields.io/badge/Threads-@omniflexfitness-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@omniflexfitness)
 [![Facebook](https://img.shields.io/badge/Facebook-OmniFlex_Fitness-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/people/OmniFlex-Fitness/61556567387235/)
-[![Snapchat](https://img.shields.io/badge/Snapchat-@omniflexfitness-FFFC00?style=flat-square&logo=snapchat&logoColor=black)](https://snapchat.com/add/omniflexfitness)
-[![Twitch](https://img.shields.io/badge/Twitch-omniflexfitness-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/omniflexfitness)
+[![Twitch](https://img.shields.io/badge/Twitch-omniflexfitness-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/omniflexfitness)
 
 </div>
 
@@ -99,14 +99,14 @@ We are building an ecosystem where training, nutrition, supplementation, and tec
 **Bertin Kenol** — Certified Personal Trainer, Certified Nutritionist, competitive powerlifter, and solo founder of OmniFlex LLC. Operates all workstreams including content, product, technology, partnerships, and the internship program.
 
 [![GitHub](https://img.shields.io/badge/GitHub-bertinkenol-181717?style=flat-square&logo=github)](https://github.com/bertinkenol)
-[![Instagram](https://img.shields.io/badge/Instagram-@bertinkenol-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/bertinkenol)
+[![Instagram](https://img.shields.io/badge/Instagram-@bertinkenol-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bertinkenol)
 
 ---
 
 ## Get Involved
 
 - **Shop the store** — [omniflexfitness.com](https://omniflexfitness.com)
-- **Follow the content** — [@omniflexfitness](https://instagram.com/omniflexfitness) on every platform
+- **Follow the content** — [@omniflexfitness](https://www.instagram.com/omniflexfitness/) on every platform
 - **Apply for an internship** — Email [bertin.kenol@omniflexfitness.com](mailto:bertin.kenol@omniflexfitness.com)
 - **Partner with us** — We work with gyms, supplement retailers, and fitness brands across Southwest Florida and NYC. Reach out via email.
 
