@@ -19,7 +19,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-@omniflexfitness-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@omniflexfitness)
 [![Snapchat](https://img.shields.io/badge/Snapchat-@omniflexfitness-FFFC00?style=flat-square&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/omniflexfitness)
 [![X](https://img.shields.io/badge/X-@OmniFlexFitness-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/OmniFlexFitness)
-[![Threads](https://img.shields.io/badge/Threads-@omniflexfitness-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@omniflexfitness)
+[![Threads](https://img.shields.io/badge/Threads-@omniflexfitness-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@omniflexfitness)
 [![Facebook](https://img.shields.io/badge/Facebook-OmniFlex_Fitness-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/people/OmniFlex-Fitness/61556567387235/)
 [![Twitch](https://img.shields.io/badge/Twitch-omniflexfitness-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/omniflexfitness)
 
@@ -99,7 +99,7 @@ We are building an ecosystem where training, nutrition, supplementation, and tec
 **Bertin Kenol** — Certified Personal Trainer, Certified Nutritionist, competitive powerlifter, and solo founder of OmniFlex LLC. Operates all workstreams including content, product, technology, partnerships, and the internship program.
 
 [![GitHub](https://img.shields.io/badge/GitHub-bertinkenol-181717?style=flat-square&logo=github)](https://github.com/bertinkenol)
-[![Instagram](https://img.shields.io/badge/Instagram-@bertinkenol-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bertinkenol)
+[![Instagram](https://img.shields.io/badge/Instagram-@bertinkenol-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bertinkenol/)
 
 ---
 
