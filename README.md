@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/OmniFlexFitness/.github/main/profile/assets/omniflex-banner.png" alt="OmniFlex Fitness" width="100%" onerror="this.style.display='none'" />
+<img src="https://raw.githubusercontent.com/OmniFlexFitness/.github/main/assets/omniflex-banner.png" alt="OmniFlex Fitness" width="100%" onerror="this.style.display='none'" />
 
 # OmniFlex Fitness
 
